@@ -13,7 +13,7 @@ Báo cáo của nhóm có thể tìm thấy ở file [report.ipynb](report/repor
 | ------------- | -------------------------------- | ------------------ | --------------------------------- |
 | 02/06 - 05/06 | Phát triển script scrape dữ liệu | Trần Lê Hữu Vinh   |                                   |
 | 06/06 - 07/06 | Kiểm tra và làm sạch dữ liệu     | Lý Quang Thắng     |                                   |
-| 08/06 - 09/06 | EDA                              | Lê Phú Trường      | Outlier, Distribution, Tuong quan |
+| 08/06 - 09/06 | EDA                              | Lê Phú Trường      | Outlier, Distribution, Tương quan |
 | 10/06 - 14/06 | Feature Engineer                 | Hồ Quốc Nhân Hòa   | Chuẩn bị dữ liệu cho mô hình hóa  |
 | 15/06         | Huấn luyện các mô hình           | Đào Xuân Tân       | Linear Regression, Decision Tree|
 | 16/06         | Đánh giá mô hình                 | Trần Lê Hữu Vinh, Lý Quang Thắng | So sánh hiệu suất các mô hình |
